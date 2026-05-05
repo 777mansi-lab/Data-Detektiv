@@ -12,7 +12,7 @@
       "wordText": " Navnet på din lokale sportsklub (f.eks. Herning Fremad)",
       "options": ["Person data", "Følsom data", "Offentlig data"],
       "correctIndex": 2,
-      "situationText": "En person i en offentlig Facebook-gruppe spørger efter hvilke sportsklubber folk i byen holder med.",
+      "situationText": "En person i en offentlig Facebook-gruppe spørger efter, hvilke sportsklubber folk i byen holder med.",
       "situationOptions": ["Må dele", "Må ikke dele"],
       "correctSituationIndex": 0
     },
