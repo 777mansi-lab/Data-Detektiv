@@ -1,16 +1,16 @@
 {
   "steps": [
     {
-      "tutorialText": "Formål: Lære at beskytte dine data på nettet"
+      "tutorialText": "Formål: \nI dette spil lærer du, hvordan du passer på dine oplysninger på nettet.\nDu vil møde små eksempler fra hverdagen, hvor du kan øve dig i at træffe gode valg."
     },
     {
-      "tutorialText": "Hvad er data?: \nData er information om dig. \nF.eks. navn, adresse eller CPR-nummer"
+      "tutorialText": "Hvad er data?: \nData er oplysninger om dig.\nDet kan eksempelvis være dit navn, din adresse eller dit telefonnummer.\nNogle oplysninger er dog mere private end andre, og derfor er det vigtigt at kende forskel."
     },
     {
-      "tutorialText": "Typer af data: \nPersondata -> Navn. \nFølsom data -> CPR-nummer. \nOffentlig data -> Data alle må se"
+      "tutorialText": "Typer af data: \nDer findes forskellige typer af oplysninger.\n->Person data (f.eks. navn eller adresse)\n->Følsom data (f.eks. CPR-nummer eller adgangskoder)\n->Offentlig data (oplysnigner som alle må se)\nI spillet øver du dig i at kende forskel på dem."
     },
     {
-      "tutorialText": "Sådan spiller du: \n1) Se på information. \n2) Vælg hvilken type data det er. \n3) Vælg om det må deles."
+      "tutorialText": "Sådan spiller du: \n1) Du får vist en oplysning\n2) Du vælger hvilken type det er\n3) Du tager stilling til, om den må deles eller ej"
     }
   ]
 }
