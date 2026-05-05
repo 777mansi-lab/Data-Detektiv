@@ -1,0 +1,16 @@
+{
+  "steps": [
+    {
+      "tutorialText": "Formål: Lære at beskytte dine data på nettet"
+    },
+    {
+      "tutorialText": "Hvad er data?: \nData er information om dig. \nF.eks. navn, adresse eller CPR-nummer"
+    },
+    {
+      "tutorialText": "Typer af data: \nPersondata -> Navn. \nFølsom data -> CPR-nummer. \nOffentlig data -> Data alle må se"
+    },
+    {
+      "tutorialText": "Sådan spiller du: \n1) Se på information. \n2) Vælg hvilken type data det er. \n3) Vælg om det må deles."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "wordText": "Navnet på din kommune (f.eks. Herning Kommune)",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 2,
+      "situationText": "Du udfylder et spørgeskema om transport i dit lokalområde, hvor de spørger, hvilken kommune du bor i.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 0
+    },
+    {
+      "wordText": " Navnet på din lokale sportsklub (f.eks. Herning Fremad)",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 2,
+      "situationText": "En person i en offentlig Facebook-gruppe spørger efter hvilke sportsklubber folk i byen holder med.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 0
+    },
+    {
+      "wordText": "Din private hjemmeadresse",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 0,
+      "situationText": "Du bestiller mad udefra (f.eks. via JustEat), og de beder om din adresse for at kunne levere maden direkte til din dør.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 0
+    },
+    {
+      "wordText": "Din private e-mailadresse",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 0,
+      "situationText": "En velkendt webshop (f.eks. Matas) beder om din e-mailadresse i kassen, så de kan sende dig en digital kvittering for dit køb.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 0
+    },
+    {
+      "wordText": " Dit private telefonnummer (ikke på Krak)",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 0,
+      "situationText": "En person du ikke kender sender dig en besked på Messenger, og spørger efter dit private nummer, der ikke står på krak, fordi de ”måske kender dig fra gamle dage” og vil ringe dig op.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 1
+    },
+    {
+      "wordText": "Oplysninger om dit helbred (f.eks. medicinforbrug)",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 1,
+      "situationText": "Du sidder til en konsultation hos en ny læge, som beder om en liste over din medicin, så de kan give dig den rette behandling.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 0
+    },
+    {
+      "wordText": "Dit CPR-nummer",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 1,
+      "situationText": "Du modtager en SMS fra et ukendt nummer, der ligner ”Skat”, som beder dig logge ind via et link og indtaste dit CPR-nummer for at få udbetalt overskydende skat.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 1
+    },
+    {
+      "wordText": "Dit kreditkortnummer",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 1,
+      "situationText": "En person på Facebook Marketplace skiver til dig, at du skal sende et billede af dit kreditkort for at bevise, at du har penge nok til at købe deres brugte skrivebord.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 1
+    },
+    {
+      "wordText": "Din adgangskode til e-mail",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 1,
+      "situationText": "”IT-supporten” fra din e-mailudbyder sender en mail om, at din konto er ved at blive lukket, og de har brug for din adgangskode straks for at ”redde” dine data.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 1
+    },
+    {
+      "wordText": "Din MitID-adgangskode",
+      "options": ["Person data", "Følsom data", "Offentlig data"],
+      "correctIndex": 1,
+      "situationText": "En person ringer og præsenterer sig selv som at være fra ”banken”. De siger at der er et igangværende svindelnummer på din konto, og de skal derfor bruge din kode for at spærre dine penge med det samme.",
+      "situationOptions": ["Må dele", "Må ikke dele"],
+      "correctSituationIndex": 1
+    }
+  ]
+}
